@@ -2,10 +2,63 @@
 ![image](https://github.com/figueiredoelizeu/figueiredoelizeu/assets/168204973/1909e6b0-671c-409f-93e3-11858a0bc207)
 
 
+# Olá, eu sou o Elizeu! 👋 | Hi, I'm Elizeu!
 
-Olá, meu nome é Elizeu, atualmente estudante de tecnologia da informação pela Universidade do Estado de São Paulo (Univesp), formado em Matemática na área da educação um estudante autoditada, leitor de livros assíduo, gosto de resolver problemas, trabalhar em equipe e poder colaborar com um planeta melhor para esta e às futuras gerações.
+### 🇧🇷 Sobre Mim
+- 🎓 **Estudante de Engenharia de Computação** na UNIVESP (Bacharel em TI em 2026).
+- 📐 **Graduado em Matemática** com sólida base em lógica e resolução de problemas.
+- 🛠️ Experiência técnica em **Eletrotécnica e Automação Industrial**.
+- 🛡️ Entusiasta de **Cybersecurity (OpSec)** e infraestrutura **Linux/Self-hosting**.
+- 📱 Desenvolvedor focado em **React Native** e soluções inteligentes de IoT.
 
-Atualmente estou trabalhando em um software de educação inclusiva de cálculo aritmético para resolução de problemas rápidos de multiplicação em Java e Java Script 
+### 🇺🇸 About Me
+- 🎓 **Computer Engineering Student** @ UNIVESP.
+- 📐 **Mathematician** with a strong background in logic and problem-solving.
+- 🛠️ Technical background in **Electrotechnics and Industrial Automation**.
+- 🛡️ **Cybersecurity (OpSec)** and **Linux/Self-hosting** enthusiast.
+- 📱 Developer focused on **React Native** and smart IoT solutions.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas | Tech Stack
+
+**Linguagens & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Infraestrutura & Segurança:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=pre-commit&logoColor=white)
+
+**Hardware & Automação:**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque | Featured Projects
+
+* **Sentinel:** Agente de segurança em Python utilizando ClamAV para monitoramento de ameaças.
+* **MultEdu:** Plataforma educacional open-source focada no Método Trachtenberg.
+* **IoT Home Automation:** Sistemas personalizados de automação residencial com ESP32.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+### 📫 Como me encontrar | Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 
 
