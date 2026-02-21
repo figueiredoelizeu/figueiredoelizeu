@@ -47,11 +47,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Sequência
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figueiredoelizeu&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredoelizeu&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=figueiredoelizeu&theme=radical" />
 </p>
 
 ---
