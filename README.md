@@ -51,9 +51,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=figueiredoelizeu&theme=radical" />
 </p>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredoelizeu&layout=compact&theme=radical&langs_count=6" />
-</p>
 ---
 
 ---
