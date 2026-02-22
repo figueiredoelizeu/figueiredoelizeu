@@ -1,4 +1,4 @@
-# Olá, eu sou o Elizeu! 👋 | Hi, I'm Elizeu!
+# Elizeu Figueiredo
 
 ### 🇧🇷 Sobre Mim
 - 🎓 **Estudante de Engenharia de Computação** na UNIVESP (Bacharel em TI em 2026).
