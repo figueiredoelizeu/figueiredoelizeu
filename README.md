@@ -1,7 +1,3 @@
-
-![image](https://github.com/figueiredoelizeu/figueiredoelizeu/assets/168204973/1909e6b0-671c-409f-93e3-11858a0bc207)
-
-
 # Olá, eu sou o Elizeu! 👋 | Hi, I'm Elizeu!
 
 ### 🇧🇷 Sobre Mim
