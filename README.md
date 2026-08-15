@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 Estatísticas e Sequência | Stats & Streak
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=figueiredoelizeu&theme=radical" />
-</p>
-
----
-
 
 ### 📫 Como me encontrar | Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elizeu-figueiredo)
